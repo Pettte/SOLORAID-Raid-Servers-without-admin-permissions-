@@ -3,6 +3,7 @@ SOLORAID a discord raider with op features! Some people sell that shit💀 Enjoy
 
 
 🔥 Features
+
 ✔ Server Spammer (Spams one or multi channels at same time)
 
 ✔ Server Joiner 
@@ -27,9 +28,13 @@ SOLORAID a discord raider with op features! Some people sell that shit💀 Enjoy
 
 
 ✍️・Setup
+
 Add your proxies in proxies.txt
+
 Add tokens in tokens.txt.txt
+
 Update config.json as you want
+
 run start.bat
 
 📄・License
