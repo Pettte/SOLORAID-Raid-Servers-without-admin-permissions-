@@ -4,16 +4,27 @@ SOLORAID a discord raider with op features! Some people sell that shit💀 Enjoy
 
 🔥 Features
 ✔ Server Spammer (Spams one or multi channels at same time)
+
 ✔ Server Joiner 
+
 ✔ Token Checker (Save the data in folder)
+
 ✔ Webhook Deleter (Deletes webhook without perms)
+
 ✔ Webhook Spammer
+
 ✔ VC Joiner (joins a voice channel)
+
 ✔ Nickname/Bio Changer 
+
 ✔ Member Spammer (Spams any person in a discord server)
+
 ✔ Pfp Changer 
+
 ✔ Multi Threading
+
 ✔ Free Or Paid Proxies
+
 
 ✍️・Setup
 Add your proxies in proxies.txt
